@@ -7,5 +7,6 @@ public class MainApp extends Application {
     public void start(Stage primaryStage) {
         System.out.println("ceva");
         System.out.println("altceva");
+        System.out.println("iar frate");
     }
 }
